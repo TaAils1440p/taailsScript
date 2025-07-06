@@ -21,7 +21,7 @@ To install the taailsScript interpreter, follow these steps:
 3. Navigate to the directory containing the interpreter.
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/TaAils1440p/taailsScript.git
 cd taailsScript
 ```
 
