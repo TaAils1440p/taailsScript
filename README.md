@@ -3,6 +3,7 @@ taailsScript, a custom scripting language. (and interpreter)
 
 ## Table of Contents
 - [Features](#features)
+- [VS Code Extension](#vs-code-extension)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Error Handling](#error-handling)
@@ -12,6 +13,9 @@ taailsScript, a custom scripting language. (and interpreter)
 - Custom syntax and operations
 - Error handling
 - Mathematical operations
+
+## VS Code Extension
+I made a VS Code Extension that adds syntax highlighting to `.taails` files. The project is available [here](https://github.com/TaAils1440p/taailsScript-Code-Extension)
 
 ## Installation
 To install the taailsScript interpreter, follow these steps:
