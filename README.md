@@ -1,6 +1,8 @@
 # taailsScript
 taailsScript, a custom scripting language. (and interpreter)
 
+<img width="350" height="350" alt="Image" src="https://github.com/user-attachments/assets/fd9d18b3-425d-4826-b75f-a1851382c9cd" />
+
 ## Table of Contents
 - [Features](#features)
 - [VS Code Extension](#vs-code-extension)
